@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BSTU_Java.iml" filepath="$PROJECT_DIR$/.idea/BSTU_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesBasic/InterfacesBasic.iml" filepath="$PROJECT_DIR$/InterfacesBasic/InterfacesBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesGeometry/InterfacesGeometry.iml" filepath="$PROJECT_DIR$/InterfacesGeometry/InterfacesGeometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxMinValue/MaxMinValue.iml" filepath="$PROJECT_DIR$/MaxMinValue/MaxMinValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OldMobilePhone/OldMobilePhone.iml" filepath="$PROJECT_DIR$/OldMobilePhone/OldMobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PutPickFromArray/PutPickFromArray.iml" filepath="$PROJECT_DIR$/PutPickFromArray/PutPickFromArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeInArray/SnakeInArray.iml" filepath="$PROJECT_DIR$/SnakeInArray/SnakeInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerminalSnake/TerminalSnake.iml" filepath="$PROJECT_DIR$/TerminalSnake/TerminalSnake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSamples/TestSamples.iml" filepath="$PROJECT_DIR$/TestSamples/TestSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tribonacci/Tribonacci.iml" filepath="$PROJECT_DIR$/Tribonacci/Tribonacci.iml" />
+    </modules>
+  </component>
+</project>
